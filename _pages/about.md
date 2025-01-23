@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master's student from Shandong University. My research interest is recommender systems.
+I'm a master's student from Shandong University. My research interest is recommender system.
 
 [Email](mailto:lizhuoming@mail.sdu.edu.cn) 
