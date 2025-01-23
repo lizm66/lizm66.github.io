@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "HOMEPAGE"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,4 +9,4 @@ redirect_from:
 
 I'm a master's student from Shandong University. My research interest is recommender system.
 
-[Email](mailto:lizhuoming@mail.sdu.edu.cn) 
+Email: lizhuoming@mail.sdu.edu.cn
